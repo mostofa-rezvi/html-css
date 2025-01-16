@@ -1,0 +1,170 @@
+.nine-a {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.nine-b {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.nine-c {
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(209, 209, 209);
+  width: 220px;
+  padding: 9px;
+  margin: 0px;
+}
+
+.service {
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.nine-d {
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  background-color: rgb(33, 33, 33);
+  width: 370px;
+  padding-left: 15px;
+}
+
+.install {
+  padding-top: 20px;
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin: 0px;
+}
+
+.yt-music {
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-family: Arial;
+  color: rgb(160, 160, 160);
+}
+
+.nine-e {
+  vertical-align: middle;
+  padding: 10px;
+  width: 365px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.cat {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+
+.what {
+  font-family: Arial;
+  color: rgb(140, 140, 140);
+  vertical-align: middle;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  font-family: Arial;
+  border: none;
+  border-radius: 18px;
+  background-color: blueviolet;
+  color: white;
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.nine-f {
+  vertical-align: middle;
+  width: 150px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+
+.cat-image-two {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.oliver {
+  font-family: Arial;
+  font-weight: bold;
+  margin-top: 6px;
+  margin-left: 6px;
+  margin-bottom: 4px;
+}
+
+.mutual-friends {
+  font-family: Arial;
+  color: rgb(140, 140, 140);
+  margin: 0px;
+  margin-left: 6px;
+  font-size: 14px;
+}
+
+.add-button {
+  margin-top: 8px;
+  margin-bottom: 5px;
+  padding: 8px 15px;
+  border: none;
+  margin-left: 6px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 3px;
+}
+
+.nine-f {
+  display: inline-block;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.google-logo {
+  width: 250px;
+  margin: 0px;
+}
+
+.google-search {
+  width: 500px;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  font-family: Arial;
+  font-size: 16px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.button {
+  text-align: center;
+}
+
+.search-button,
+.lucky-button {
+  font-family: Arial;
+  font-size: 16px;
+  border: none;
+  background-color: rgb(245, 245, 245);
+  padding: 15px 18px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.nine-h {
+  text-align: center;
+}
