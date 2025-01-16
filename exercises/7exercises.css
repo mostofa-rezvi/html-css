@@ -1,0 +1,105 @@
+.cat_image {
+  width: 300px;
+  border-radius: 18px;
+}
+
+.cat_image_two {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  padding: 5px;
+  /* object-position: center; */
+  border-style: solid;
+  border-color: black;
+}
+
+.cat_image_three {
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.search {
+  padding: 5px 8px;
+  border-radius: 5px;
+  border-style: solid;
+  font-size: 18px;
+}
+
+.search_google {
+  width: 400px;
+  padding: 15px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.email {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-bottom: 5px;
+}
+
+.text {
+  width: 300px;
+  height: 25px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 4px;
+}
+
+.policy {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.agree_button {
+  border: none;
+  border-radius: 18px;
+  background-color: blueviolet;
+  color: white;
+  padding: 15px;
+  width: 295px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.cat_image_four {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50px;
+  border: none;
+  vertical-align: middle;
+}
+
+.what_happening {
+  font-size: 20px;
+  color: rgb(100, 100, 100);
+  vertical-align: middle;
+  border: none;
+  padding: 10px;
+}
+
+.tweet_button {
+  font-family: Arial;
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  padding: 8px 15px;
+  border-radius: 18px;
+  border: none;
+  vertical-align: middle;
+}
+
+.seven_g {
+  vertical-align: middle;
+  padding: 10px;
+}
