@@ -1,0 +1,21 @@
+.search {
+  display: block;
+}
+
+.header {
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+}
+
+.start-section {
+  background-color: lightblue;
+}
+
+.middle-section {
+  background-color: lightcoral;
+}
+
+.end-section {
+  background-color: lightpink;
+}
