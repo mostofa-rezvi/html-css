@@ -6,16 +6,23 @@
   height: 60px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .start-section {
   background-color: lightblue;
+  width: 150px;
 }
 
 .middle-section {
   background-color: lightcoral;
+  flex: 1;
+  margin-left: 70px;
+  margin-right: 40px;
+  max-width: 500px;
 }
 
 .end-section {
   background-color: lightpink;
+  width: 200px;
 }
